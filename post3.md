@@ -2,4 +2,4 @@
 
 kdjdkfdl
 
-![my pic](./pics/'WeChat Image_20171231112236.jpg')
+![my pic](/pics/WeChat.jpg)
