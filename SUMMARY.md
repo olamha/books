@@ -1,5 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
-  * [post1](post1.md)
-  	* [post3](post3.md)
+* [Philo]()
+  * [Kant]()
+  	* [走鋼索所需要的善意](btw-Leibniz-and-hume.md)
