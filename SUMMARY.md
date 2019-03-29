@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [20180807-gift-of-Dionysus](20180807-gift-of-dionysus.md)
-* [20181001-Edith-Hamilton](20181001-edith-hamilton.md)
-* [20181121-cicero-on-old](20181121-cicero-on-old.md)
-* [之間](20190317-btw-leibniz-and-hume.md)
+* [酗酒](20180807-gift-of-dionysus.md)
+* [人稱為美最重要的條件](20181001-edith-hamilton.md)
+* [拉長時間的尺度](20181121-cicero-on-old.md)
+* [走鋼索所需要的善意](20190317-btw-Leibniz-and-hume.md)
 
