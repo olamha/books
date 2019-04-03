@@ -1,153 +1,24 @@
-&lt;!--  
- /\* Font Definitions \*/  
- @font-face  
-	{font-family:新細明體;  
-	panose-1:2 2 5 0 0 0 0 0 0 0;  
-	mso-font-alt:PMingLiU;  
-	mso-font-charset:136;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-1610611969 684719354 22 0 1048577 0;}  
-@font-face  
-	{font-family:新細明體;  
-	panose-1:2 2 5 0 0 0 0 0 0 0;  
-	mso-font-alt:PMingLiU;  
-	mso-font-charset:136;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-1610611969 684719354 22 0 1048577 0;}  
-@font-face  
-	{font-family:Calibri;  
-	panose-1:2 15 5 2 2 2 4 3 2 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:swiss;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-536870145 1073786111 1 0 415 0;}  
-@font-face  
-	{font-family:"\@新細明體";  
-	panose-1:2 2 5 0 0 0 0 0 0 0;  
-	mso-font-charset:136;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-1610611969 684719354 22 0 1048577 0;}  
-@font-face  
-	{font-family:微軟正黑體;  
-	panose-1:2 11 6 4 3 5 4 4 2 4;  
-	mso-font-charset:136;  
-	mso-generic-font-family:swiss;  
-	mso-font-pitch:variable;  
-	mso-font-signature:135 680476672 22 0 1048585 0;}  
-@font-face  
-	{font-family:"\@微軟正黑體";  
-	panose-1:2 11 6 4 3 5 4 4 2 4;  
-	mso-font-charset:136;  
-	mso-generic-font-family:swiss;  
-	mso-font-pitch:variable;  
-	mso-font-signature:135 680476672 22 0 1048585 0;}  
-@font-face  
-	{font-family:Georgia;  
-	panose-1:2 4 5 2 5 4 5 2 3 3;  
-	mso-font-charset:0;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:647 0 0 0 159 0;}  
- /\* Style Definitions \*/  
- p.MsoNormal, li.MsoNormal, div.MsoNormal  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-parent:"";  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	mso-pagination:none;  
-	font-size:12.0pt;  
-	mso-bidi-font-size:11.0pt;  
-	font-family:"Calibri","sans-serif";  
-	mso-ascii-font-family:Calibri;  
-	mso-ascii-theme-font:minor-latin;  
-	mso-fareast-font-family:新細明體;  
-	mso-fareast-theme-font:minor-fareast;  
-	mso-hansi-font-family:Calibri;  
-	mso-hansi-theme-font:minor-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-font-kerning:1.0pt;}  
-span.EmailStyle15  
-	{mso-style-type:personal;  
-	mso-style-noshow:yes;  
-	mso-style-unhide:no;  
-	mso-ansi-font-size:12.0pt;  
-	mso-bidi-font-size:11.0pt;  
-	font-family:"Georgia","serif";  
-	mso-ascii-font-family:Georgia;  
-	mso-fareast-font-family:微軟正黑體;  
-	mso-hansi-font-family:Georgia;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	color:windowtext;}  
-.MsoChpDefault  
-	{mso-style-type:export-only;  
-	mso-default-props:yes;  
-	font-family:"Calibri","sans-serif";  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;}  
- /\* Page Definitions \*/  
- @page  
-	{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}  
-@page WordSection1  
-	{size:612.0pt 792.0pt;  
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;  
-	mso-header-margin:36.0pt;  
-	mso-footer-margin:36.0pt;  
-	mso-paper-source:0;}  
-div.WordSection1  
-	{page:WordSection1;}  
---&gt;  
-
-
 我感謝維特根斯坦\(Ludwig Josef Johann Wittgenstein, 1889-1951\)。他教我想事情時，要提出討論的底線。
 
-
-
-他的早期著作《邏輯哲學》\(Tractatus Logico-Philosophicus\)，界定了哲學只討論語言陳述的方法，不去討論語言所指的對象。他的意思是當我們說「大理石」這個詞彙時，我們到底是在指它的什麼樣的特徵和使用方法，這是物理學的事；當我們在說我們「認識」一件事時，具體在說我們動用什麼分析方法、或我們用觀察還是信念去認識，這是心理學的範疇；而哲學，是教導人們正確使用語言的一門學問。
-
-
+他早期著作《邏輯哲學》\(Tractatus Logico-Philosophicus\)，界定了哲學只討論語言陳述的方法，不去討論語言所指的對象。他的意思是當我們說「大理石」這個詞彙時，我們到底是在指它的什麼樣的特徵和使用方法，這是物理學的事；當我們在說我們「認識」一件事時，具體在說我們動用什麼分析方法、或我們用觀察還是信念去認識，這是心理學的範疇；而哲學，是教導人們正確使用語言的一門學問。
 
 「基督是上帝」、「阿拉是真主」，這些陳述句的真偽，沒有定論。由於沒有定論，「哲學」認定這句話本身沒有意義的，不可能拿來討論。好比有人說，「那塊黑色大理石是綠的」，這句本身有語言漏洞的句子，根本不可能成為討論的課題一樣。關於信仰，維特根斯坦的態度是，你只能信或不信，你不能辯證。人們應該直接把這類的課題屏除在討論範圍之外，或不要企圖通過哲學來得到有意義的結論。
 
-
-
 維特根斯坦說：
 
+維特根斯坦這樣劃清界線的作法，使他的哲學只允許討論自然科學此類可被驗證的課題，從而丟失哲學史上充斥的重要課題，像是什麼是智慧、價值的判定、有沒有真理，這些大問題。維特根斯坦本人也意識到這個遺憾，但他還是認為正確的界定課題、界定討論的底線，是一切研究最基本的素養。缺乏清楚的前提，所有討論只能是徒然。
 
-
-維特根斯坦這樣劃清界線的作法，使他的哲學基本上只允許討論自然科學此類可被驗證的課題，從而將丟失哲學史上充斥的重要課題，像是什麼是智慧、價值的判定、有沒有真理，這些大問題。維特根斯坦本人也意識到這個問題，但他還是認為正確的界定課題、界定討論的底線，是一切研究最基本的素養。缺乏清楚的前提，所有討論只能是徒然。
-
-
-
-他的後期思想《哲學探索》\(Philosophical Investigations\)抨擊了《邏輯哲學論》。具體抨擊的點，因為我沒有讀原著，只是讀簡介，所以不太清楚。但他沿襲他早年的思維方法，即界定問題討論邊界。用此法，他抨擊了笛卡爾的「我思故我在」說，令人拍案叫絕。
-
-
+他的後期思想《哲學探索》\(Philosophical Investigations\)抨擊了《邏輯哲學論》。具體抨擊的點，因為我沒有讀原著，只是讀簡介，所以不太清楚。但他沿襲他早年的思維方法，即界定問題討論邊界。用此法，他抨擊了笛卡爾\(Descartes\)「我思故我在」之說，令人拍案叫絕。
 
 有些人懷疑自己不存在身體，自己只是被上帝用無線遙控器操縱的無實體意識而已，他們問：「我有手嗎？」維特根斯坦認為這樣問是荒謬的，這個句子根本不成立。因為因果關係上，是因為人有手，人才創造了「手」這個詞彙。當我們使用「手」這個詞時，我們已經承認了這個詞的實質。因此除非情況特殊，我們不該認為「手」是個幻覺，或我們的身體是個幻覺。像那樣的問題，其實是無病呻吟，或更嚴重，是企圖顛覆語言。如果你說的你的手不是手，那我們該怎樣叫它？腳嗎？
 
-
-
 維特根斯坦說：懷疑立基於確信之上
 
-
-
-笛卡爾認為人無法確定任何事情，你不知道你推桌子讓桌子移動，是因為你施力造成的，還是上帝讓你相信你推了桌子，同時上帝讓桌子移動，甚至更甚，上帝讓你看到一個桌子移動的幻象。笛卡爾認為人只能確定自己存在。因為「知道自己在思考」這件事，至少必須有一個載體，來乘載這個知道。所以當我意識到我知道時，我可以確證我存在。
-
-
+笛卡爾認為人無法確定任何事情：你不知道你推桌子讓桌子移動，是因為你施力造成的，還是上帝讓你相信你推了桌子，同時上帝讓桌子移動；甚至更甚，上帝讓你看到一個桌子移動的幻象。笛卡爾認為人只能確定自己存在，因為「知道自己在思考」這件事，至少必須有一個載體，來乘載這個知道。所以當我意識到我知道時，我可以確證我存在。
 
 維特根斯坦認為，當我們用「推移」這個詞彙時，已經承認其物理學上的作用。人不能懷疑自己推移桌子這件事。就這樣。
 
-
-
-維特根斯坦受教過程中，曾與羅素等人有密切往來，受到邏輯分析的訓練。邏輯訓練或使維特根斯坦在討論任何問題時，不忘界定問體的底線：先檢視這是不是真的是一個問題，還是一個信念、一個宣稱，亦或是一句語義不成立的句子，如果都不是，再來做進一步的討論。
-
-
+維特根斯坦受教過程中，曾與羅素\(Bertrand Arthur William Russell\)等人有密切往來，受到邏輯分析的訓練。邏輯訓練或使維特根斯坦在討論任何問題時，不忘界定問體的底線：先檢視這是不是真的是一個問題，還是一個信念、一個宣稱，亦或是一句語義不成立的句子，如果都不是，再來做進一步的討論。
 
 再寫上一次維特根斯坦讓我印象深刻的兩個分析方法。
 
@@ -155,15 +26,9 @@ div.WordSection1
 
 2.
 
-
-
-
-
 2019-04-03
 
 據我所閱讀的介紹書說，維特根斯坦死後出版的《哲學探索》是其代表思想，期待有一天，我再找到原著品讀。
-
-
 
 參考資料：
 
